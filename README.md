@@ -1,1 +1,1 @@
-# Quote-Generator
+# Random Quote-Generator implemented using DOM concepts.
